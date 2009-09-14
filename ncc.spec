@@ -2,7 +2,7 @@
 Name: ncc
 Summary: C source code analyzer
 Version: 2.8
-Release: %mkrel 2
+Release: %mkrel 3
 License: Artistic
 Group: Development/Other
 URL: http://students.ceid.upatras.gr/~sxanth/ncc
