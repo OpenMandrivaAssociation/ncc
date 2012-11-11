@@ -1,0 +1,13 @@
+Index: ncc-2.8/config.h
+===================================================================
+--- ncc-2.8.orig/config.h
++++ ncc-2.8/config.h
+@@ -14,7 +14,7 @@
+ #define GNU_VIOLATIONS
+ #define LABEL_VALUES
+ #define OUTPUT_EXT ".nccout"
+-#define NOGNU "/usr/include/nognu"
++#define NOGNU "/usr/share/doc/ncc/nognu"
+ #define NCC_INFILE_KEY "ncc-key"
+ #define FAKE_VARIABLE_ARRAYS
+ #define NCC_ISOC99
