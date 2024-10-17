@@ -4,7 +4,7 @@ Version:	2.8
 Release:	4
 License:	Artistic
 Group:		Development/Other
-URL:		http://students.ceid.upatras.gr/~sxanth/ncc
+URL:		https://students.ceid.upatras.gr/~sxanth/ncc
 Source0:	%{name}-%{version}.tar.gz
 Patch0:		ncc-2.8-nognu-location.patch
 BuildRequires:	pkgconfig(ncurses)
